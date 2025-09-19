@@ -2,8 +2,20 @@
   "profiles": [
     {
       "name": "Guest",
-      "high_score": 12600
+      "high_score": 23600
+    },
+    {
+      "name": "diegote",
+      "high_score": 75300
+    },
+    {
+      "name": "nnn",
+      "high_score": 0
+    },
+    {
+      "name": "puchy",
+      "high_score": 16600
     }
   ],
-  "last_active": "Guest"
+  "last_active": "puchy"
 }
