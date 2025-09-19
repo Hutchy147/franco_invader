@@ -1,0 +1,9 @@
+{
+  "profiles": [
+    {
+      "name": "Guest",
+      "high_score": 12600
+    }
+  ],
+  "last_active": "Guest"
+}

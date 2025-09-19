@@ -996,7 +996,7 @@ class PlayState(State):
     def shoot(self):
         now = pygame.time.get_ticks()
         if (len(self.bullets) + self.shot_count) <= self.max_bullets and \
-           self.fire_timer.ready(now, self.fire_cooldown_ms):
+            self.fire_timer.ready(now, self.fire_cooldown_ms):
 
             cx = self.player.rect.centerx
             y  = self.player.rect.top
